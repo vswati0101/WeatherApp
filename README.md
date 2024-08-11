@@ -16,7 +16,6 @@ WeatherApp is an Android application that provides real-time weather updates usi
 <!-- Reduced size example using HTML -->
 <img src="https://github.com/user-attachments/assets/5341f598-fe3b-4d6d-a8a3-a4ed7f1d6061" alt="WeatherApp Screenshot" width="300"/>
 <img src="https://github.com/user-attachments/assets/5f1805a1-8956-4b2d-98f0-7fe59201f176" alt="WeatherApp Screenshot" width="300"/>
-<img src="https://github.com/user-attachments/assets/8afc13f7-725b-497a-b7b0-da67112e8feb1" alt="WeatherApp Screenshot" width="300"/>
 
 
 ## Installation
